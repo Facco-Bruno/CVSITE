@@ -1,0 +1,44 @@
+/* Aula inicial :D */
+
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/692/715/non_2x/gradient-geometric-background-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: #2eb8b8;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: blue;
+  }
+  
+  .site-title {
+    color: #208000;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    font-style: italic;
+  }
+  
