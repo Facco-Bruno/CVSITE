@@ -2,4 +2,4 @@
 
 Portfolio using Html, CSS e Bootstrap
 
-Link: https://facco-bruno.github.io/testesite/.
+Link: https://facco-bruno.github.io/CV-site/
